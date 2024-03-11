@@ -143,6 +143,7 @@ button
   border: none;
   background-color: #FDD500;
   cursor: pointer;
+  letter-spacing: 1px;
 }
 
 
