@@ -12,7 +12,7 @@ const button9 = document.getElementById("contact");
 if (button1) {
 
     button1.addEventListener("click", function() {
-        window.location.href = "/login/index.html"; 
+        window.location.href = "/all/main/login/index.html"; 
       });
     
 } else {
@@ -21,7 +21,7 @@ if (button1) {
 if (button2) {
 
     button2.addEventListener("click", function() {
-        window.location.href = "/home/index.html";
+        window.location.href = "/all/index.html";
       });
     
 } else {
@@ -30,7 +30,7 @@ if (button2) {
 if (button3) {
 
     button3.addEventListener("click", function() {
-        window.location.href = "/sign/index.html"; 
+        window.location.href = "/all/main/sign/index.html"; 
       });
     
 } else {
@@ -40,7 +40,7 @@ if (button3) {
 if (button4) {
 
     button4.addEventListener("click", function() {
-        window.location.href = "/login/index.html";
+        window.location.href = "/all/main/login/index.html";
       });
     
 } else {
@@ -51,7 +51,7 @@ if (button5) {
 
     button5.addEventListener("click", function() {
         
-        window.location.href = "/home/index.html";
+        window.location.href = "/all/index.html";
       });
     
 } else {
@@ -61,7 +61,7 @@ if (button5) {
 if (button6) {
 
     button6.addEventListener("click", function() {
-        window.location.href = "/home/index.html";
+        window.location.href = "/all/index.html";
       });
     
 } else {
@@ -70,7 +70,7 @@ if (button6) {
 if (button7) {
 
     button7.addEventListener("click", function() {
-        window.location.href = "/home/index.html"; 
+        window.location.href = "/all/index.html"; 
       });
     
 } else {
@@ -80,7 +80,7 @@ if (button7) {
 if (button8) {
 
     button8.addEventListener("click", function() {
-        window.location.href = "/home/index.html"; 
+        window.location.href = "/all/index.html"; 
       });
     
 } else {
@@ -90,7 +90,7 @@ if (button8) {
 if (button9) {
 
     button9.addEventListener("click", function() {
-        window.location.href = "/form/index.html"; 
+        window.location.href = "/all/main/form/index.html"; 
       });
     
 } else {
