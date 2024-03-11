@@ -12,7 +12,7 @@ const button9 = document.getElementById("contact");
 if (button1) {
 
     button1.addEventListener("click", function() {
-        window.location.href = "login-index.html"; 
+        window.location.href = "Login/index.html"; 
       });
     
 } else {
@@ -30,7 +30,7 @@ if (button2) {
 if (button3) {
 
     button3.addEventListener("click", function() {
-        window.location.href = "Sign-index.html"; 
+        window.location.href = "Sign/index.html"; 
       });
     
 } else {
@@ -40,7 +40,7 @@ if (button3) {
 if (button4) {
 
     button4.addEventListener("click", function() {
-        window.location.href = "login-index.html";
+        window.location.href = "Login/index.html";
       });
     
 } else {
@@ -90,7 +90,7 @@ if (button6) {
 if (button9) {
 
     button9.addEventListener("click", function() {
-        window.location.href = "form-index.html"; 
+        window.location.href = "form/index.html"; 
       });
     
 } else {
