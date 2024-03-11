@@ -21,7 +21,7 @@ if (button1) {
 if (button2) {
 
     button2.addEventListener("click", function() {
-        window.location.href = "Home-index.html"; 
+        window.location.href = "index.html"; 
       });
     
 } else {
@@ -51,7 +51,7 @@ if (button5) {
 
     button5.addEventListener("click", function() {
         
-        window.location.href = "Home-index.html"; 
+        window.location.href = "index.html"; 
       });
     
 } else {
@@ -61,7 +61,7 @@ if (button5) {
 if (button6) {
 
     button6.addEventListener("click", function() {
-        window.location.href = "Home-index.html"; 
+        window.location.href = "index.html"; 
       });
     
 } else {
