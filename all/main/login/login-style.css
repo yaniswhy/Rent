@@ -10,7 +10,7 @@ body {
   background-color: #FAEEC9;
 }
 nav{
-  box-shadow: 0 5px 10px -1px rgba(0, 0, 0, 0.1);
+  box-shadow: 0 10px 10px -1px rgba(202, 202, 202, 0.199);
   background-color: white;
   width: 100%;
   top: 0%;
@@ -94,15 +94,15 @@ h6{
   cursor: pointer;
 }
 #b1{
-  background-image: url(./pictures/Facebook.png);
+  background-image: url(/all/main/pictures/Facebook.png);
   background-size: cover;
 }
 #b2{
-  background-image: url(./pictures/Google.png);
+  background-image: url(/all/main/pictures/Google.png);
   background-size: cover;
 }
 #b3{
-  background-image: url(./pictures/Linkdin.png);
+  background-image: url(/all/main/pictures/Linkdin.png);
   background-size: cover;
 }
 .conta{
