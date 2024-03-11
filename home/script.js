@@ -67,25 +67,25 @@ if (button6) {
 } else {
     console.log("Something is wrong!");
 }
-// if (button7) {
+if (button7) {
 
-//     button7.addEventListener("click", function() {
-//         window.location.href = "Home-index.html"; 
-//       });
+    button7.addEventListener("click", function() {
+        window.location.href = "/home/index.html"; 
+      });
     
-// } else {
-//     console.log("Something is wrong!");
-// }
+} else {
+    console.log("Something is wrong!");
+}
 
-// if (button8) {
+if (button8) {
 
-//     button8.addEventListener("click", function() {
-//         window.location.href = "Home-index.html"; 
-//       });
+    button8.addEventListener("click", function() {
+        window.location.href = "/home/index.html"; 
+      });
     
-// } else {
-//     console.log("Something is wrong!");
-// }
+} else {
+    console.log("Something is wrong!");
+}
 
 if (button9) {
 
